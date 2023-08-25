@@ -1,5 +1,5 @@
-# The React Quiz
+## The React Quiz
 
-## This project allows to practice with `useReducer` and `useEffect`
+This project allows to practice with `useReducer` and `useEffect`
 
 !["Demo"](/public/demo25.gif)
